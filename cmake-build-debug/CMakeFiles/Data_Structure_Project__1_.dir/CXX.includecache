@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ahmadreza/Desktop/Code/CPP/Term 3/DS/Data Structure Project (1)/main.cpp
+iostream
+-
+string.h
+-
+time.h
+-
+afxres.h
+-
+

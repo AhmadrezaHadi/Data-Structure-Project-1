@@ -1,0 +1,4 @@
+"C:\Users\Ahmadreza\AppData\Roaming\JetBrains\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Ahmadreza\Desktop\Code\CPP\Term 3\DS\Data Structure Project (1)"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Ahmadreza/Desktop/Code/CPP/Term 3/DS/Data Structure Project (1)/cmake-build-debug
